@@ -1,5 +1,10 @@
 
 function Listening() {
+    console.log(process.env['PUBLIC_URL'])
+    console.log('..then..')
+    console.log(process.env.PUBLIC_URL)
+
+
     return (
         <div class="body-container">
             <div class="post">
