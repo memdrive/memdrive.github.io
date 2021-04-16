@@ -1,1 +1,0 @@
-My site [memdrive.github.io](https://memdrive.github.io) is just static files.
