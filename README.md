@@ -1,1 +1,1 @@
-My site [memdrive.github.io](https://memdrive.github.io) uses *React* and *React Router*, and is minimified/deployed on the `gh-pages` branch, while the source code is here on `main`.
+My site [memdrive.github.io](https://memdrive.github.io) is just static files.
